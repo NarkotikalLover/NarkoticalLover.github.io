@@ -2,9 +2,9 @@
 // Данный скрипт писал нубокодер по жизни и у меня были сроки сделать за 3 дня!
 //бд настройки крч )
 $server         	= "localhost";       //host         
-$db_user        	= "h7241_csgo";       //user                             
+$db_user        	= "NarkotikalLover";       //user                             
 $user_pass        	= "csgo";       //password
-$database       	= "h7241_csgo"; 		//dbname
+$database       	= "NarkotikalLover"; 		//dbname
 
 
 $ADMIN_ID =1; //id админа
